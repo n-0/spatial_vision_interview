@@ -33,7 +33,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 /**
- * @descripton Validates user and signal errors
+ * @description Validates user and signal errors
  * @param {object} userLogin - Entered user data
  * @param {function} setUserLogin - Clear error fields
  * @param {object} errorForm - To persist existing errors
